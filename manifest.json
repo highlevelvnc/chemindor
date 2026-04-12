@@ -1,0 +1,22 @@
+{
+    "name": "Chemin d'Or LDA",
+    "short_name": "Chemin d'Or",
+    "description": "Acabamentos de Luxo em Pladur, Barramento e Pintura - Lisboa, Portugal",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0a",
+    "theme_color": "#0a0a0a",
+    "lang": "pt-PT",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "/logo.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        }
+    ]
+}
